@@ -21,7 +21,7 @@ const success = () => {
 };
 
 const error = () => {
-  message.error('This is an error message');
+  message.error('This is an error aa message');
 };
 
 const warning = () => {
